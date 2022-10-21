@@ -8,12 +8,12 @@
 "date":"我的本地"},
 {
 "key":"我的网络接口",
-"name":"推荐接口",
+"name":"我的接口",
 "ext":"https://agit.ai/comeonbaby0122/Q/raw/branch/master/jy.json",
 "date":"推荐线路" },
 {
 "key":"我的JS接口",
-"name":"推荐接口",
+"name":"我的JS接口",
 "ext":"https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/0.json",
 "date":"推荐线路" },
 {
