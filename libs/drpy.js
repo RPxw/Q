@@ -3,7 +3,7 @@
 // import 'http://192.168.1.124:5705/libs/es6py.js';
 import cheerio from 'https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/cheerio.min.js';
 // import cheerio from 'http://192.168.10.103:5705/libs/cheerio.min.js';
-import 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/crypto-js.js';
+import 'https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/crypto-js.js';
 import 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drT.js';
 // import 'http://192.168.10.103:5705/libs/drT.js';
 // import muban from 'https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/模板.js';
