@@ -14,6 +14,13 @@
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
             "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e6%98%9f%e8%be%b0.js"
         },
+        {
+            "key" : "drpy_js_子子影视",
+            "name" : "子子影视[DRPY]",
+            "type" : 3,
+            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e5%ad%90%e5%ad%90%e5%bd%b1%e8%a7%86.js"
+        },
             {
             "key" : "drpy_js_奥迪影视",
             "name" : "奥迪影视[DRPY]",
@@ -32,7 +39,7 @@
             "key" : "drpy_js_低端",
             "name" : "低端[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.ym.js",
+            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
             "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/ddys.js"
         },
             {
