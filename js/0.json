@@ -8,6 +8,13 @@
             "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/360%e5%bd%b1%e8%a7%86.js"
         },
         {
+            "key" : "drpy_js_DJ音乐",
+            "name" : "DJ音乐[DRPY]",
+            "type" : 3,
+            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/DJ%e9%9f%b3%e4%b9%90.js"
+        },
+        {
             "key" : "drpy_js_星辰影视",
             "name" : "星辰影视[DRPY]",
             "type" : 3,
@@ -416,6 +423,11 @@
                 }]
         }],
     "rules" : [
+            {
+            "host":"www.djuu.com",
+            "rule":[
+            "mp4.djuu.com"]
+        },
             {
             "host" : "*",
             "rule" : [
