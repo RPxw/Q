@@ -4,43 +4,92 @@
             "key" : "drpy_js_360影视",
             "name" : "360影视[DRPY]",
             "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.ym.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/360%e5%bd%b1%e8%a7%86.js"
+            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/360ys.js"
         },
         {
-            "key" : "drpy_js_DJ音乐",
-            "name" : "DJ音乐[DRPY]",
+            "key" : "drpy_js_qingtingFM",
+            "name" : "蜻蜓FM[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/DJ%e9%9f%b3%e4%b9%90.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/qingtingFM.js"
         },
         {
-            "key" : "drpy_js_星辰影视",
-            "name" : "星辰影视[DRPY]",
+            "key" : "drpy_js_酷奇MV",
+            "name" : "酷奇MV[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e6%98%9f%e8%be%b0.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/kuqiMV.js"
+        },
+        {
+            "key" : "drpy_js_爱车MV",
+            "name" : "爱车MV[DRPY]",
+            "type" : 3,
+            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/aicheMV.js"
+        },
+        {
+            "key" : "drpy_js_310直播",
+            "name" : "310直播[DRPY]",
+            "type" : 3,
+            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/310zhibo.js"
+        },
+        {
+            "key" : "drpy_js_188看",
+            "name" : "188看[DRPY]",
+            "type" : 3,
+            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/188kan.js"
+        },
+        {
+            "key" : "drpy_js_Voflix",
+            "name" : "Voflix[DRPY]",
+            "type" : 3,
+            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/Voflix.js"
+        },
+        {
+            "key" : "drpy_js_小白菜电影",
+            "name" : "小白菜电影[DRPY]",
+            "type" : 3,
+            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/xiaobaicaidy.js"
+        },
+        {
+            "key" : "drpy_js_新视觉影视",
+            "name" : "新视觉影视[DRPY]",
+            "type" : 3,
+            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/xinshijueys.js"
         },
         {
             "key" : "drpy_js_子子影视",
             "name" : "子子影视[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e5%ad%90%e5%ad%90%e5%bd%b1%e8%a7%86.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/ziziys.js"
         },
-            {
-            "key" : "drpy_js_奥迪影视",
-            "name" : "奥迪影视[DRPY]",
+        {
+            "key" : "drpy_js_星辰影视",
+            "name" : "星辰影视[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e5%a5%a5%e8%bf%aa%e5%bd%b1%e8%a7%86.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/xingchenys.js"
+        },
+            {
+            "key" : "drpy_js_四个圈",
+            "name" : "四个圈[DRPY]",
+            "type" : 3,
+            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/sigequan.js"
         },
             {
             "key" : "drpy_js_快看",
             "name" : "快看[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e5%bf%ab%e7%9c%8b.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/kuaikan.js"
         },
             {
             "key" : "drpy_js_低端",
@@ -54,111 +103,90 @@
             "name" : "菜狗[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e8%8f%9c%e7%8b%97.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/caigou.js"
         },
             {
             "key" : "drpy_js_豆瓣",
             "name" : "豆瓣[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e8%b1%86%e7%93%a3.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/douban.js"
         },{
             "key" : "drpy_js_麦豆",
             "name" : "麦豆[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e9%ba%a6%e8%b1%86.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/maidoucom.js"
         },
             {
             "key" : "drpy_js_69美剧",
             "name" : "69美剧[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/69%e7%be%8e%e5%89%a7.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/69meiju.js"
         },
             {
             "key" : "drpy_js_优酷",
             "name" : "优酷[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e4%bc%98%e9%85%b7.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/youku.js"
         },
             {
             "key" : "drpy_js_来看点播",
             "name" : "来看点播[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e6%9d%a5%e7%9c%8b%e7%82%b9%e6%92%ad.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/laikandianbo.js"
         },
             {
             "key" : "drpy_js_酷云77",
             "name" : "酷云77[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e9%85%b7%e4%ba%91%e4%b8%83%e4%b8%83.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/kuyun77.js"
         },
             {
             "key" : "drpy_js_真不卡",
             "name" : "真不卡[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e7%9c%9f%e4%b8%8d%e5%8d%a1.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/zhenbuka.js"
         },
             {
             "key" : "drpy_js_素白白",
             "name" : "素白白[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e7%b4%a0%e7%99%bd%e7%99%bd.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/subaibai.js"
         },
             {
             "key" : "drpy_js_短视频",
             "name" : "短视频[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e7%9f%ad%e8%a7%86%e9%a2%91.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/duanshipin.js"
         },
             {
             "key" : "drpy_js_TV蜂",
             "name" : "TV蜂[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/TV%e8%9c%82.js"
-        },
-            {
-            "key" : "drpy_js_LIBVIO",
-            "name" : "LIBVIO[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/LIBVIO.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/TVfeng.js"
         },
             {
             "key" : "drpy_js_百忙无果",
             "name" : "百忙无果[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e7%99%be%e5%bf%99%e6%97%a0%e6%9e%9c.js"
-        },
-            {
-            "key" : "drpy_js_番茄影视",
-            "name" : "番茄影视[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e7%95%aa%e8%8c%84%e5%bd%b1%e8%a7%86.js"
-        },
-            {
-            "key" : "drpy_js_干饭影视",
-            "name" : "干饭影视[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e5%b9%b2%e9%a5%ad%e5%bd%b1%e8%a7%86.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/baimangwuguo.js"
         },
             {
             "key" : "drpy_js_喵喵",
             "name" : "喵喵[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e5%96%b5%e5%96%b5.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/miaomiao.js"
         },
             {
             "key" : "drpy_js_MXONE",
@@ -172,126 +200,105 @@
             "name" : "Nike影视[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/Nike%e5%bd%b1%e8%a7%86.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/Nikeys.js"
         },
             {
             "key" : "drpy_js_两个BT",
             "name" : "两个BT[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e4%b8%a4%e4%b8%aaBT.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/lianggeBT.js"
         },
             {
             "key" : "drpy_js_大师兄影视",
             "name" : "大师兄影视[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e5%a4%a7%e5%b8%88%e5%85%84%e5%bd%b1%e8%a7%86.js"
-        },
-            {
-            "key" : "drpy_js_天空影视",
-            "name" : "天空影视[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e5%a4%a9%e7%a9%ba%e5%bd%b1%e8%a7%86.js"
-        },
-            {
-            "key" : "drpy_js_完美看看",
-            "name" : "完美看看[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e5%ae%8c%e7%be%8e%e7%9c%8b%e7%9c%8b.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/dashixiongys.js"
         },
             {
             "key" : "drpy_js_皮皮泡",
             "name" : "皮皮泡[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e7%9a%ae%e7%9a%ae%e6%b3%a1.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/pipipao.js"
         },
             {
             "key" : "drpy_js_RP影视",
             "name" : "RP影视[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/RP%e5%bd%b1%e8%a7%86.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/RPys.js"
         },
             {
             "key" : "drpy_js_看了么",
             "name" : "看了么[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e7%9c%8b%e4%ba%86%e4%b9%88.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/kanleme.js"
         },
             {
             "key" : "drpy_js_奇珍异兽",
             "name" : "奇珍异兽[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e5%a5%87%e7%8f%8d%e5%bc%82%e5%85%bd.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/qizhenyishou.js"
+        },
+            {
+            "key" : "drpy_js_人人影视",
+            "name" : "人人影视[DRPY]",
+            "type" : 3,
+            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/renrenys.js"
         },
             {
             "key" : "drpy_js_万能影视",
             "name" : "万能影视[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e4%b8%87%e8%83%bd%e5%bd%b1%e8%a7%86.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/wannengys.js"
         },
             {
             "key" : "drpy_js_小强迷",
             "name" : "小强迷[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e5%b0%8f%e5%bc%ba%e8%bf%b7.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/xiaoqiangmi.js"
         },
             {
             "key" : "drpy_js_鸭奈飞",
             "name" : "鸭奈飞[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e9%b8%ad%e5%a5%88%e9%a3%9e.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/yanaifei.js"
         },
             {
             "key" : "drpy_js_在线之家",
             "name" : "在线之家[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e5%9c%a8%e7%ba%bf%e4%b9%8b%e5%ae%b6.js"
-        },
-            {
-            "key" : "drpy_js_瓜皮TV",
-            "name" : "瓜皮TV[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e7%93%9c%e7%9a%aeTV.js"
-        },
-            {
-            "key" : "drpy_js_555影视",
-            "name" : "555影视[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/555%e5%bd%b1%e8%a7%86.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/zaixianzhijia.js"
         },
             {
             "key" : "drpy_js_蓝光影院",
             "name" : "蓝光影院[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e8%93%9d%e5%85%89%e5%bd%b1%e9%99%a2.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/languangyy.js"
         },
             {
             "key" : "drpy_js_莫扎兔",
             "name" : "莫扎兔[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e8%8e%ab%e6%89%8e%e5%85%94.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/mozhatu.js"
         },
             {
             "key" : "drpy_js_007影视",
             "name" : "007影视[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/007%e5%bd%b1%e8%a7%86.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/007ys.js"
         },
             {
             "key" : "drpy_js_cokemv",
@@ -301,116 +308,88 @@
             "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/cokemv.js"
         },
             {
-            "key" : "drpy_js_库马伊",
-            "name" : "库马伊[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e5%ba%93%e9%a9%ac%e4%bc%8a.js"
-        },
-            {
             "key" : "drpy_js_奇优影院",
             "name" : "奇优影院[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e5%a5%87%e4%bc%98%e5%bd%b1%e9%99%a2.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/qiyouyy.js"
         },
             {
             "key" : "drpy_js_腾云驾雾",
             "name" : "腾云驾雾[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e8%85%be%e4%ba%91%e9%a9%be%e9%9b%be.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/tengyunjiawu.js"
         },
             {
             "key" : "drpy_js_凌云影视",
             "name" : "凌云影视[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e5%87%8c%e4%ba%91.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/lingyun.js"
         },
             {
             "key" : "drpy_js_8号影院",
             "name" : "8号影院[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/8%e5%8f%b7%e5%bd%b1%e9%99%a2.js"
-        },
-            {
-            "key" : "drpy_js_尘落影视",
-            "name" : "尘落影视[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e5%b0%98%e8%90%bd%e5%bd%b1%e8%a7%86.js"
-        },
-            {
-            "key" : "drpy_js_双十电影",
-            "name" : "双十电影[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e5%8f%8c%e5%8d%81%e7%94%b5%e5%bd%b1.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/8yy.js"
         },
             {
             "key" : "drpy_js_抓饭体育",
             "name" : "抓饭体育[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e6%8a%93%e9%a5%ad%e4%bd%93%e8%82%b2.js"
-        },
-            {
-            "key" : "drpy_js_秋霞",
-            "name" : "秋霞[DRPY]-click",
-            "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e7%a7%8b%e9%9c%9e.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/zhuafantiyu.js"
         },
             {
             "key" : "drpy_js_兔小贝",
             "name" : "兔小贝[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e5%85%94%e5%b0%8f%e8%b4%9d.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/tuxiaobei.js"
         },
         {
             "key" : "drpy_js_厂长资源",
             "name" : "厂长资源[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e5%8e%82%e9%95%bf%e8%b5%84%e6%ba%90.js"
-        },
-        {
-            "key" : "drpy_js_HDmoli",
-            "name" : "HD茉莉[DRPY]",
-            "type" : 3,
-            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/HDmoli.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/changzhangziyuan.js"
         },
         {
             "key" : "drpy_js_起飞影院",
             "name" : "起飞影院[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e8%b5%b7%e9%a3%9e%e5%bd%b1%e9%99%a2.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/qifeiyy.js"
         },
         {
             "key" : "drpy_js_追剧啦",
             "name" : "追剧啦[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e8%bf%bd%e5%89%a7%e5%95%a6.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/zhuijula.js"
         },
         {
             "key" : "drpy_js_追剧达人",
             "name" : "追剧达人[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e8%bf%bd%e5%89%a7%e8%be%be%e4%ba%ba.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/zhuijudaren.js"
+        },
+        {
+            "key" : "drpy_js_追剧喵",
+            "name" : "追剧喵[DRPY]",
+            "type" : 3,
+            "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/zhuijumiao.js"
         },
         {
             "key" : "drpy_js_猫了个咪",
             "name" : "猫了个咪[DRPY]",
             "type" : 3,
             "api" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
-            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/%e7%8c%ab%e4%ba%86%e4%b8%aa%e5%92%aa.js"
+            "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/maolegemi.js"
         }],
     "lives" : [
             {
