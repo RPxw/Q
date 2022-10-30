@@ -385,6 +385,27 @@
             "ext" : "https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/zhuijumiao.js"
         },
         {
+            "key":"drpy_js_荐片",
+            "name":"荐片[DRPY]",
+            "type":3,
+            "api":"https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
+            "ext":"https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/jianpian.js"
+        },   
+        {
+            "key":"drpy_js_南瓜影院",
+            "name":"南瓜影院[DRPY]",
+            "type":3,
+            "api":"https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
+            "ext":"https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/nanguayy.js"
+        },   
+        {
+            "key":"drpy_js_189",
+            "name":"在线189[DRPY]",
+            "type":3,
+            "api":"https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/libs/drpy.js",
+            "ext":"https://agit.ai/comeonbaby0122/dr_py/raw/branch/master/js/zaixian189.js"
+        },   
+        {
             "key" : "drpy_js_猫了个咪",
             "name" : "猫了个咪[DRPY]",
             "type" : 3,
@@ -401,50 +422,24 @@
                         "proxy://do=live&type=txt&ext=http://111.67.196.181/mtv/zhibo.txt"]
                 }]
         }],
-    "rules" : [
-            {
-            "host":"www.djuu.com",
-            "rule":[
-            "mp4.djuu.com"]
-        },
-            {
-            "host" : "*",
-            "rule" : [
-                "douyinvod.com",
-                "/video/tos/cn/"]
-        },
-            {
-            "host" : "*",
-            "rule" : [
-                "default.365yg.com",
-                "/video/tos/cn/"]
-        },
-            {
-            "host" : "*",
-            "rule" : [
-                "ysting.ysxs8.vip",
-                "m4a"]
-        },
-            {
-            "host" : "www.agemys.cc",
-            "rule" : [
-                "cdn-tos",
-                "obj/tos-cn"]
-        },
-            {
-            "host" : "*",
-            "rule" : [
-                "/m3u8.php",
-                "path="]
-        },
-            {
-            "host" : "zjmiao.com",
-            "rule" : [
-                "play.videomiao.vip/API.php",
-                "time=",
-                "key=",
-                "path="]
-        }],
+    "rules":[
+{"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]}, 
+{"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},  
+{"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".m3u8"]},
+{"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mp4"]}, 
+{"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mkv"]}, 
+{"host":"*", "rule":["/m3u8.php?path=", ".m3u8"]}, 
+{"host":"zjmiao.com", "rule":["play.videomiao.vip/API.php", "time=", "key=", "path="]},  
+{"host":"*", "rule":["/API.php?time=", "key=", "path=", ".m3u8"]},
+{"host":"*", "rule":["oss-cn-m3u8", "myqcloud.com.zh188.net", "?url=", ".m3u8"]}, 
+{"host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]},
+{"host":"*", "rule":["iesdouyin.com/aweme", "video_id="]},
+{"host":"*", "rule":["huoshan.com", "/item/video/"]},
+ {"host":"*", "rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
+  {"host":"*", "rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]},
+{"host":"*", "rule":["mp3"]},
+{"host":"*", "rule":["m4a"]}
+],
     "parses":[
         {
             "name":"GGTV聚合",
